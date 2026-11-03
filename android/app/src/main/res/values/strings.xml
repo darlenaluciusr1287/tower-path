@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tower Path</string>
+
+    <string name="wordmark">TOWER PATH</string>
+    <string name="tagline">BUILD THE ROUTE UPWARD</string>
+    <string name="loader_caption">PREPARING THE SITE</string>
+
+    <string name="play">PLAY</string>
+    <string name="drop">DROP</string>
+    <string name="play_again">PLAY AGAIN</string>
+    <string name="menu">MENU</string>
+    <string name="resume">RESUME</string>
+    <string name="restart_stage">RETRY STAGE</string>
+    <string name="close">CLOSE</string>
+    <string name="tower_map">TOWER MAP</string>
+    <string name="records">RECORDS</string>
+    <string name="collection">COLLECTION</string>
+    <string name="settings">SETTINGS</string>
+    <string name="reset_progress">RESET PROGRESS</string>
+    <string name="reset_confirm">CONFIRM RESET</string>
+
+    <string name="menu_hint">TAP TO DROP - KEEP THE OVERLAP WIDE</string>
+    <string name="pause_title">PAUSED</string>
+    <string name="pause_hint">THE CRANE IS HOLDING THE SLAB</string>
+    <string name="settings_title">SETTINGS</string>
+    <string name="records_title">RECORDS</string>
+    <string name="collection_title">COLLECTION</string>
+    <string name="tower_map_title">TOWER PATH MAP</string>
+
+    <string name="mode_campaign">CAMPAIGN</string>
+    <string name="mode_daily">DAILY</string>
+    <string name="mode_practice">PRACTICE</string>
+
+    <string name="region_harbour_spires">HARBOUR SPIRES</string>
+    <string name="region_glass_quarter">GLASS QUARTER</string>
+    <string name="region_signal_crown">SIGNAL CROWN</string>
+
+    <string name="stage_line">STAGE %1$d - %2$s</string>
+    <string name="stage_label">STAGE %1$d</string>
+    <string name="goal_floors">%1$d FLOORS</string>
+    <string name="floor_counter">%1$d / %2$d</string>
+    <string name="percent_value">%1$d%%</string>
+    <string name="unlock_cost">%1$d STARS</string>
+    <string name="daily_entry">DAY %1$d - %2$s</string>
+    <string name="anchor_resume">RESUMING FROM ANCHOR FLOOR %1$d</string>
+
+    <string name="route_complete">ROUTE COMPLETE</string>
+    <string name="route_lost">ROUTE LOST</string>
+    <string name="perfect">PERFECT</string>
+    <string name="new_best">NEW BEST</string>
+
+    <string name="star_destination">DESTINATION</string>
+    <string name="star_accuracy">ACCURACY %1$d%%</string>
+    <string name="star_width">WIDTH %1$d%%</string>
+
+    <string name="floors_label">FLOORS</string>
+    <string name="accuracy_label">ACCURACY</string>
+    <string name="best_label">BEST</string>
+    <string name="stars_label">STARS</string>
+    <string name="best_score">BEST SCORE</string>
+    <string name="best_accuracy">BEST ACCURACY</string>
+    <string name="longest_streak">PERFECT STREAK</string>
+    <string name="regions_cleared">REGIONS CLEARED</string>
+    <string name="daily_history">DAILY HISTORY</string>
+    <string name="no_records">NO RUNS YET</string>
+
+    <string name="unlock_cobalt_steel">COBALT STEEL</string>
+    <string name="unlock_signal_mast">SIGNAL MAST</string>
+    <string name="unlock_dawn_harbour">DAWN HARBOUR</string>
+    <string name="unlock_cyan_glass">CYAN GLASS</string>
+    <string name="unlock_crown_beacon">CROWN BEACON</string>
+    <string name="unlock_deep_night">DEEP NIGHT</string>
+    <string name="kind_material">MATERIAL</string>
+    <string name="kind_decoration">DECORATION</string>
+    <string name="kind_theme">THEME</string>
+
+    <string name="brief_overlap">KEEP THE OVERLAP WIDE</string>
+    <string name="brief_anchor">ANCHOR FLOORS LOCK YOUR WIDTH</string>
+    <string name="brief_wind">WIND NUDGES THE SLAB</string>
+    <string name="brief_hitch">THE SLAB HITCHES - EXPECT IT</string>
+
+    <string name="sound">SOUND</string>
+    <string name="haptics">HAPTICS</string>
+    <string name="reduced_motion">REDUCED MOTION</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+
+    <string name="cd_logo">TowerPath emblem</string>
+    <string name="cd_total_stars">Total stars collected</string>
+    <string name="cd_star_earned">Star earned</string>
+    <string name="cd_star_locked">Star not earned</string>
+    <string name="cd_anchor">Anchor floor</string>
+    <string name="cd_destination">Stage destination</string>
+    <string name="cd_pause">Pause</string>
+    <string name="cd_home">Back to menu</string>
+    <string name="cd_floor_counter">Floor %1$d of %2$d</string>
+
+    <string name="sd_selected">selected</string>
+    <string name="sd_not_selected">not selected</string>
+    <string name="sd_locked">locked</string>
+    <string name="sd_unlocked">unlocked</string>
+    <string name="sd_width">Platform width %1$d percent</string>
+</resources>
